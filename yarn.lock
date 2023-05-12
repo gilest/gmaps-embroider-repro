@@ -4980,10 +4980,9 @@ ember-fetch@^8.1.2:
     node-fetch "^2.6.1"
     whatwg-fetch "^3.6.2"
 
-ember-google-maps@^6.0.0:
+"ember-google-maps@github:gilest/ember-google-maps#fix/embroider-v2":
   version "6.0.0"
-  resolved "https://registry.yarnpkg.com/ember-google-maps/-/ember-google-maps-6.0.0.tgz#53abf4b86faa94f8b0c808ec5feaf23028a56e4b"
-  integrity sha512-4awabZ5lN1lVnTO8Tq2sSyRopfykd1d8VCIkKlOTQ0I0UU1iUaQ9dZNONhy3vcxAe9viHaK35KE5qqV0Rp2xsw==
+  resolved "https://codeload.github.com/gilest/ember-google-maps/tar.gz/ab3cc3436ac5fd868d7b2d73e3edb93a40d9a081"
   dependencies:
     "@ember/test-waiters" "^3.0.0"
     broccoli-debug "^0.6.5"
