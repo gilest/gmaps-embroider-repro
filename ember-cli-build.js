@@ -27,5 +27,10 @@ module.exports = function (defaults) {
         package: 'qunit',
       },
     ],
+    staticAddonTestSupportTrees: true,
+    staticAddonTrees: true,
+    staticHelpers: true,
+    staticModifiers: true,
+    staticComponents: true,
   });
 };
